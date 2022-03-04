@@ -9,7 +9,7 @@ src
 │   ├───java
 │   │   └───com
 │   │       └───myhotel
-│   │           └───rentacar
+│   │           └───company
 │   │               ├───domain
 │   │               │   ├───model
 │   │               │   ├───repository
@@ -28,7 +28,7 @@ src
     └───java
         └───com
             └───myhotel
-                └───rentacar
+                └───company
                     ├───controller
                     └───service
 ```
@@ -102,7 +102,7 @@ Si no tenemos maven instalado podemos utilizar maven "incorporado" en el proyect
 
 ## Run the app
 
-Ir a la clase com.myhotel.company.RentacarApplication, hacer click con el botón derecho y seleccionar "Run RentacarApplication.main().."
+Ir a la clase com.myhotel.company.CompanyApplication, hacer click con el botón derecho y seleccionar "Run Company~~~~Application.main().."
 
 ## Run the tests
 
